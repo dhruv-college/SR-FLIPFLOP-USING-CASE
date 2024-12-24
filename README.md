@@ -74,4 +74,4 @@ endmodule
 
 **RESULTS**
 
-Thus implemented a SR flipflop using verilog and validated their functionality using their functional tables
+Thus implemented a SR flipflop using verilog and validated their functionality using their functional tables.
